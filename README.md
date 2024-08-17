@@ -1,2 +1,1 @@
-# Booki
-Site de réservation de vacances
+# booki-starter-pack
